@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @AAstagoth
-- 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning symfony
-- 📫 How to reach me : jordandufour21@gmail.com / 07 68 97 09 01
+- 👋 Hi, I’m @Astagoth, real name : Dufour Jordan
+- 👀 I’m interested in learning new skills, pop culture, mangas and video games
+- 🌱 I’m currently learning Symfony, Typescript, jQuery and React
+- 💞️ I’m looking to collaborate on a apprenticeship collaboration
+- 📫 How to reach me : jordandufour21@gmail.com or on Discord : .strangeluck / Shaggy Rogers#6222 (yeah I like this character from the Scooby Gang)
 
 <!---
-AAstagoth/AAstagoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Astagoth/Astagoth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
